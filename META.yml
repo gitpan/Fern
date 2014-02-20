@@ -17,4 +17,4 @@ requires:
   Scalar::Util: 0
   Test::Most: 0
   override: 0
-version: 0.1
+version: 0.2

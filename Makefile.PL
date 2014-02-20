@@ -25,7 +25,7 @@ my %WriteMakefileArgs = (
     'Test::Most' => '0',
     'override' => '0'
   },
-  'VERSION' => '0.1',
+  'VERSION' => '0.2',
   'test' => {
     'TESTS' => 't/*.t'
   }
